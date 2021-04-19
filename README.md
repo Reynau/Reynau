@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+I'm Xavi, a Full-Stack Developer passionate about design, tech, and fashion.
+
+I started programming when I was 12 years old as a hobby. Since then, I've never stopped trying new technologies and playing around with different pet projects.
+
+Now, after multiple years of personal and professional experience, I worked on projects related to procedural art generation, videogames, simulation, automation, societal challenges, web technologies, and more.
+
 <!--
 **Reynau/Reynau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
